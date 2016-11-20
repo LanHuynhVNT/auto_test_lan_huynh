@@ -6,7 +6,7 @@
 
 2. Forgotten password: Got the same issue above. I can’t register a new account so I can’t check this feature. Just automate the simple case, entering the email address and click the Reset button. The checkpoint is checking the message is displayed after clicking the button.
 
-# Execute the test case
+### Execute the test case
 
 Pre-condition: Copy the geckodriver.exe file to D: drive
 
